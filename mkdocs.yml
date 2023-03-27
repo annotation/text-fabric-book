@@ -1,7 +1,13 @@
 site_name: Text-Fabric Book
 site_url: https://annotation.github.io/text-fabric-book/
+repo_name: 'TF book'
+repo_url: https://github.com/annotation/text-fabric-book
 
 theme: windmill
+
+markdown_extensions:
+  - toc:
+      permalink: True
 
 extra:
   logo: img/tf.png
