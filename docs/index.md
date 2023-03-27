@@ -5,9 +5,9 @@ a tool by which you can view a text corpus as a dataset.
 
 ## Book organization
 
-*   [Basics](Basics/) gets you up and running with TF and tells you what it is.
-*   [Intermediate]() shows how to compute with TF, and use it for research,
-    with special attention to sharing and reproducibility.
+*   [Basics](Basics/) gets you up and running with TF and tells you what it is,
+*   and how to use it for research, with special attention to sharing and
+    reproducibility.
 *   [Advanced]() brings you power tools for data manipulation.
 *   [Expert]() makes you a creator of TF datasets out of the mess of the real world.
 *   [Background]() informs you about the design principles that lay at the heart of TF.
