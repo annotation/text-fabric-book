@@ -1,7 +1,7 @@
-## Create TF from other data
+# Create TF from other data
 
-### Create from TEI
+## Create from TEI
 
-### Create from XML
+## Create from XML
 
-### Configure the TF-app
+## Configure the TF-app

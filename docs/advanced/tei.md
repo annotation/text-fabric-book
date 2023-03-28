@@ -1,4 +1,4 @@
-## Import TEI texts
+# Import TEI texts
 
 *   with validation, checks, and reporting
 *   without data loss

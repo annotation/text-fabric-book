@@ -1,10 +1,10 @@
-## TF as a Python library
+# TF as a Python library
 
-## TF in a Jupyter Notebook
+# TF in a Jupyter Notebook
 
-## The Text-Fabric Browser
+# The Text-Fabric Browser
 
-## A TF dataset
+# A TF dataset
 
 *   slots
 *   nodes

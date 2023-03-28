@@ -1,19 +1,19 @@
-## (A) Modern TF Api
+# (A) Modern TF Api
 
-## (N) Walking through nodes
+# (N) Walking through nodes
 
-## (otype) Types of nodes
+# (otype) Types of nodes
 
-## (oslots) Linking nodes to slots
+# (oslots) Linking nodes to slots
 
-## (F) Features (nodes)
+# (F) Features (nodes)
 
-## (E) Features (edges)
+# (E) Features (edges)
 
-## (L) Locality
+# (L) Locality
 
-## (T) Text
+# (T) Text
 
-## (TF) Loading and saving
+# (TF) Loading and saving
 
-## (info, warning, error) Logging
+# (info, warning, error) Logging

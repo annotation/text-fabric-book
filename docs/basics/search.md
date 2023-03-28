@@ -1,16 +1,16 @@
-## Search templates
+# Search templates
 
-### Atom lines
+## Atom lines
 
-### Feature lines
+## Feature lines
 
-### Relational operator lines
+## Relational operator lines
 
-### Quantifiers
+## Quantifiers
 
-### Examples
+## Examples
 
-### Pitfalls
+## Pitfalls
 
 *   nodes with gaps
 *   nodes without expected embedders

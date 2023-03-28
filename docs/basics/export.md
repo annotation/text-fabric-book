@@ -1,3 +1,3 @@
-## Export result sets
+# Export result sets
 
 * to Excel

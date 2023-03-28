@@ -1,5 +1,11 @@
-## Use a corpus
+# Use a corpus
 
+---
+
+*   [📓](use.html) - [⚙️](use.ipynb) use.ipynb
+
+---
+    
 `use()` as in `use database` in MySQL
 
 *   data versus app

@@ -1,4 +1,4 @@
-## Data model
+# Data model
 
 *   abstract: nodes-edges-features
 *   warp and weft

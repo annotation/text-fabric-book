@@ -1,6 +1,6 @@
-## Interchange with other tools
+# Interchange with other tools
 
-### Recorder
+## Recorder
 
 *   Export a corpus as plain text while keeping tabs on where the nodes are.
 *   Let NLP tools work on the plain text, and capture the resulting annotations.

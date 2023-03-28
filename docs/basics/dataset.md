@@ -1,10 +1,10 @@
-## TF text files
+# TF text files
 
-## TF binary files
+# TF binary files
 
-## Precomputed data files
+# Precomputed data files
 
-## Finding datasets
+# Finding datasets
 
 *   on your computer
     *   in a clone of a repository

@@ -1,4 +1,4 @@
-## Writing support
+# Writing support
 
 *   rtl writing systems
 *   `hbo` and `arc` (Hebrew and Aramaic)

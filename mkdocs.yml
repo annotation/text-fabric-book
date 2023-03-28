@@ -8,6 +8,8 @@ theme: windmill
 markdown_extensions:
   - toc:
       permalink: True
+      baselevel: 2
+  - admonition
 
 extra:
   logo: img/tf.png
@@ -15,33 +17,33 @@ extra:
 nav:
   - Home: index.md
   - About: about.md
-  - Basics:
+  - '📓 Basics':
     - Install: basics/install.md
     - Dataset: basics/dataset.md
     - Concepts: basics/concepts.md
-    - Use: basics/use.md
-    - Core: basics/core.md
-    - Search: basics/search.md
-    - Export: basics/export.md
-    - Share: basics/share.md
-  - Advanced:
+    - '📓 Use': basics/use.md
+    - '📓 Core': basics/core.md
+    - '📓 Search': basics/search.md
+    - '📓 Export': basics/export.md
+    - '📓 Share': basics/share.md
+  - '📓 Advanced':
     - Writing: advanced/writing.md
-    - Interchange: advanced/interchange.md
-    - TEI: advanced/tei.md
-    - Pandas: advanced/pandas.md
-    - Create: advanced/create.md
-    - Volumes: advanced/volumes.md
-    - Modify: advanced/modify.md
-    - Versioning: advanced/versioning.md
-  - Expert:
-    - Convert:
-      - Walker: expert/convert/walker.md
-      - XML: expert/convert/xml.md
-      - MQL: expert/convert/mql.md
-    - App:
-      - Settings: expert/app/settings.md
-    - Static search interface:
-       - Generate: expert/static/generate.md
+    - '📓 Interchange': advanced/interchange.md
+    - '📓 TEI': advanced/tei.md
+    - '📓 Pandas': advanced/pandas.md
+    - '📓 Create': advanced/create.md
+    - '📓 Volumes': advanced/volumes.md
+    - '📓 Modify': advanced/modify.md
+    - '📓 Versioning': advanced/versioning.md
+  - '📓 Expert':
+    - '📓 Convert':
+      - '📓 Walker': expert/convert/walker.md
+      - '📓 XML': expert/convert/xml.md
+      - '📓 MQL': expert/convert/mql.md
+    - '📓 App':
+      - '📓 Settings': expert/app/settings.md
+    - '📓 Static search interface':
+       - '📓 Generate': expert/static/generate.md
     - Tools:
       - 'XML Schema': expert/tools/xmlschema.md
       - nbconvert: expert/tools/nbconvert.md

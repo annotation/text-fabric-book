@@ -1,12 +1,12 @@
-## App configuration
+# App configuration
 
-### Settings
+## Settings
 
 *   provenance specs
 *   data display
 *   type display
 
-### App specific code
+## App specific code
 
 *   `app.py`
 *   importing modules in `app.py`

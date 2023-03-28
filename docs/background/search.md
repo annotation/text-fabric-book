@@ -1,9 +1,9 @@
-## Search implementation
+# Search implementation
 
-### Syntax
+## Syntax
 
-### Semantics
+## Semantics
 
-### Pragmatics
+## Pragmatics
 
 *   search strategies

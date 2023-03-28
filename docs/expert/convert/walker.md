@@ -1,8 +1,8 @@
-## Generic TF converter
+# Generic TF converter
 
-### Walking method
+## Walking method
 
-### Basis of many conversions
+## Basis of many conversions
 
 *   from XML
 *   from TEI

@@ -1,12 +1,12 @@
-## Show notebooks
+# Show notebooks
 
-### Online services
+## Online services
 
 *   NBViewer
 *   GitHub
 *   Software Heritage Archive
 
-### Local conversion
+## Local conversion
 
 *   nbconvert
 *   distribute as HTML in GitHub pages
